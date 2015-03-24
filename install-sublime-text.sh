@@ -15,7 +15,7 @@ else
     /usr/local/sublime-text-3/sublime_text \$@ > /dev/null 2>&1 &
 fi"
  
-curl -L "http://c758482.r82.cf2.rackcdn.com/sublime_text_3_build_3065_x64.tar.bz2" -o "/usr/src/Sublime Text 3.tar.bz2"
+curl -L "http://c758482.r82.cf2.rackcdn.com/sublime_text_3_build_3080_x64.tar.bz2" -o "/usr/src/Sublime Text 3.tar.bz2"
 cd /usr/src
 tar -xvjf "Sublime Text 3.tar.bz2"
 cd "sublime_text_3"
